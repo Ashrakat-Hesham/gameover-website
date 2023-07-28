@@ -1,0 +1,19 @@
+.bg-color1 {
+    background-color: #32383e !important;
+  
+  }
+  
+  .card {
+    transition: all 0.5s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+  }
+  
+  .bg-icon {
+    background-color: #7a8288 !important;
+    color: #32383e;
+    font-size: 12px;
+  }
+  

@@ -1,0 +1,30 @@
+a {
+  text-decoration: none !important;
+}
+
+.bg-color {
+  background-color: #212529 !important;
+}
+
+.bg-color1 {
+  background-color: #32383e !important;
+
+}
+
+.row .col-1 {
+  padding: 0 !important;
+}
+
+.btn-login {
+  color: #fff !important;
+  background-color: #3a3f44 !important;
+  border-color: #22241d !important;
+}
+
+.loginbtn
+{
+color: #4799eb;
+}
+a:hover{
+  color: #4799eb !important;
+}

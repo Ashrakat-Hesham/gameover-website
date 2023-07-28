@@ -1,0 +1,10 @@
+
+.navbar-brand{
+    font-family: 'Xanh Mono', monospace;
+}
+.navbar-nav{
+padding:.5rem 0 !important;
+}
+.pointer{
+    cursor: pointer;
+}

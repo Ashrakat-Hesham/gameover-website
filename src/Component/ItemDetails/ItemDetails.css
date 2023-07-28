@@ -1,0 +1,37 @@
+.btn-blue{
+    background-image: linear-gradient(#4799eb,#4799eb 60%,#49acff);
+    background-repeat: no-repeat;
+    filter: none;
+    color: #fff;
+    background-color: #4799eb;
+    border-color: #4799eb;
+}
+.bgimage{
+   
+    
+    width: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+
+}
+.game-overlay{
+    background: linear-gradient(rgba(39,43,48,.9),#272b30);
+    height: 100vh;
+    width: 100%;      
+    background-position: top;
+
+}
+.btn {
+    transition: none;
+}
+.btn:hover{
+    background-color:#4799eb ;
+    color: #fff;
+    border-color: #4799eb;
+}

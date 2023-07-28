@@ -1,0 +1,40 @@
+.bg-color1 {
+    background-color: #32383e !important;
+  
+  }
+  
+  .gameCard {
+    transition: all 0.5s;
+  }
+  
+  .gameCard:hover{
+    transform: scale(1.02);
+  }
+  .gameCard:hover img , .card-body{
+    opacity: 1;
+
+  }
+  .gameCard:hover .card-body{    opacity: 1;
+  }
+
+  .gameCard .card-body , img{
+    transition: all 0.5s;
+  }
+  .gameCard  img{   
+     transition: all 0.5s;
+  }
+
+  .bg-icon {
+    background-color: #7a8288 !important;
+    color: #32383e;
+    font-size: 12px;
+  }
+  .card{
+    --bs-card-bg:#32383e !important;
+    background-color:#32383e !important;
+    --bs-card-spacer-y:0 !important;
+    --bs-card-spacer-x:0 !important;
+  }
+  .card-body,img{
+    opacity: 0.5;
+  }
